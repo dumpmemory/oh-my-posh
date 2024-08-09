@@ -2663,6 +2663,27 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "Yash-Garg",
+      "name": "Yash Garg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33605526?v=4",
+      "profile": "http://yashgarg.dev",
+      "contributions": [
+        "code",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "sarpuser",
+      "name": "Sarp User",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23362324?v=4",
+      "profile": "https://github.com/sarpuser",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
